@@ -1,0 +1,24 @@
+{
+  "name": "busy-tag",
+  "version": "1.0.0",
+  "description": "Manage busy tag device",
+  "keywords": [
+    "busytag",
+    "busy-tag"
+  ],
+  "homepage": "https://github.com/taulfsime/busy-tag#readme",
+  "bugs": {
+    "url": "https://github.com/taulfsime/busy-tag/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taulfsime/busy-tag.git"
+  },
+  "license": "MIT",
+  "author": "taulfsime",
+  "type": "module",
+  "main": "dist/cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
